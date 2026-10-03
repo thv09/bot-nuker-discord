@@ -6,3 +6,7 @@ An advanced, high-performance Discord server nuking and mass automation utility 
 * **Developer:** vawn (`kzs2`)
 * **Discord:** vawn (`1474457819469185156`)
 * **Link:** [zyo.lol](https://zyo.lol/trnnz.08)
+
+---
+### **Support Me / Donate**
+* **Buy Me a Coffee:** [buymeacoffee.com/trnzz](https://buymeacoffee.com/trnzz)
