@@ -10,14 +10,6 @@ An advanced, high-performance Discord server nuking and mass automation utility 
    Mở cửa sổ lệnh (CMD / Terminal) tại thư mục chứa source code và chạy lệnh:
    ```bash
    pip install -r requirements.txt
-
----
-### **Cách dùng / Usage**
-
-1. **Cài đặt các thư viện cần thiết:**
-   Mở cửa sổ lệnh (CMD / Terminal) tại thư mục chứa source code và chạy lệnh:
-   ```bash
-   pip install -r requirements.txt
    
 ---
 ### **Credits & Info / Thông tin & Tác giả**
