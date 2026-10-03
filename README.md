@@ -1,6 +1,5 @@
 # bot-nuker-discord
-An advanced, high-performance Discord server nuking and mass automation utility tool built with Python. Features multi-server controls, hybrid commands, mass moderation, and whitelist protection.
-Một công cụ tiện ích tự động hóa hàng loạt và hủy diệt máy chủ Discord hiệu suất cao, nâng cao được viết bằng Python. Các tính năng bao gồm điều khiển đa máy chủ, lệnh lai (hybrid commands), kiểm duyệt hàng loạt và bảo vệ danh sách trắng (whitelist).
+An advanced, high-performance Discord server nuking and mass automation utility tool built with Python. Features multi-server controls, hybrid commands, mass moderation, and whitelist protection. / Một công cụ tiện ích tự động hóa hàng loạt và hủy diệt máy chủ Discord hiệu suất cao, nâng cao được viết bằng Python. Các tính năng bao gồm điều khiển đa máy chủ, lệnh lai (hybrid commands), kiểm duyệt hàng loạt và bảo vệ danh sách trắng (whitelist).
 
 ---
 ### **Credits & Info / Thông tin & Tác giả**
